@@ -1,2 +1,2 @@
 # bmi-calc-cpp
-cum
+## DOMINACJA GENETYCZNA EZA😎
